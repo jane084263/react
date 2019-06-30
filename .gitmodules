@@ -4,3 +4,6 @@
 [submodule "counter-app"]
 	path = counter-app
 	url = /Users/linlinsun/Desktop/react/counter-app
+[submodule "vidly"]
+	path = vidly
+	url = /Users/linlinsun/Desktop/react/vidly
