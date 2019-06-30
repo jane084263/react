@@ -1,3 +1,6 @@
 [submodule "react-app"]
 	path = react-app
 	url = /Users/linlinsun/Desktop/react/react-app
+[submodule "counter-app"]
+	path = counter-app
+	url = /Users/linlinsun/Desktop/react/counter-app
